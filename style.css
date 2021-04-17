@@ -1,0 +1,74 @@
+body{
+ background: url(https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg);
+  
+}
+
+main{
+  
+  border: 1px solid white;
+    border-radius: 50px;
+  margin:50px;
+}
+header{
+  background-color:#1f2833;
+  
+}
+h1{
+  font-family: 'Dancing Script', raleway, cursive;
+  color:#66fcf1;
+  text-align:center;
+  font-size:60px;
+}
+p{
+  color: #c5c6c7;
+  font-family:raleway;
+  font-size:20px;
+  font-weight:200px;
+  text-align:center;
+}
+#img-caption{
+color: #c5c6c7;
+  font-family:raleway;
+  font-size:20px;
+  font-weight:200px;
+text-align:center;}
+h3{
+    font-family: 'Dancing Script', raleway;
+    color: #45a29e;
+  text-align:center;
+  font-size:40px;
+}
+
+#img-div {
+   text-align: center;
+   display: block;
+   width: 100%;
+}
+.musk-table{
+    text-align: center;
+  margin:30px;
+}
+
+.odd{
+     background-color: #45a29e;
+    margin:5px;
+    padding:5px;
+}
+.even{
+   background-color: #66fcf1;
+   margin:5px;
+  padding:5px;
+}
+img {
+  padding-top: 10px;
+  height: auto;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:50%;
+  display: block;
+}
+#tribute-info{
+  background-color:#1f2833;
+
+}
